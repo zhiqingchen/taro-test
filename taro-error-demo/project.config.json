@@ -1,0 +1,34 @@
+{
+  "miniprogramRoot": "dist/",
+  "projectname": "taro-error-demo",
+  "description": "",
+  "appid": "",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "enhance": false,
+    "compileHotReLoad": false,
+    "postcss": false,
+    "minified": true,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    },
+    "minifyWXML": false,
+    "minifyWXSS": true,
+    "ignoreUploadUnusedFiles": false
+  },
+  "compileType": "miniprogram",
+  "libVersion": "2.25.2",
+  "srcMiniprogramRoot": "dist/",
+  "packOptions": {
+    "ignore": [],
+    "include": []
+  },
+  "condition": {},
+  "editorSetting": {
+    "tabIndent": "insertSpaces",
+    "tabSize": 2
+  }
+}

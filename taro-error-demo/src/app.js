@@ -3,8 +3,6 @@ import { Provider } from 'react-redux';
 import { createStore } from 'redux';
 import reducers from './reducers';
 import { setSystemInfo } from './actions/systmInfo';
-import 'taro-ui/dist/style/index.scss';
-import '@/static/iconfont/iconfont.scss'
 import './app.scss';
 
 const store = createStore(reducers);

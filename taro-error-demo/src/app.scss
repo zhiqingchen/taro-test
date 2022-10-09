@@ -1,3 +1,4 @@
+@import "~taro-ui/dist/style/index.scss";
 .mlr-12 {
   margin-left:12px;
   margin-right:12px;
@@ -114,7 +115,7 @@ button[type=primary]{
 }
 
 .at-button--primary {
-  border: none !important;
+  // border: none !important;
 }
 
 .small-text{
@@ -139,7 +140,7 @@ button[type=primary]{
 }
 
 .linear-header-block {
-  background: linear-gradient(134.1deg, #4F89F7 25.5%, #88BEF9 96.99%);
+  // background: linear-gradient(134.1deg, #4F89F7 25.5%, #88BEF9 96.99%);
   border-radius: 4px;
   padding:24px 16px;
 }

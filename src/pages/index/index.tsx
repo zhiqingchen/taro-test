@@ -1,5 +1,6 @@
 import { Component, PropsWithChildren } from 'react'
 import { View, Text } from '@tarojs/components'
+import { AtAvatar } from 'taro-ui'
 import './index.scss'
 
 export default class Index extends Component<PropsWithChildren> {
@@ -16,6 +17,7 @@ export default class Index extends Component<PropsWithChildren> {
     return (
       <View className='index'>
         <Text>Hello world!</Text>
+        <AtAvatar />
       </View>
     )
   }

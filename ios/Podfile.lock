@@ -1204,20 +1204,20 @@ PODS:
 DEPENDENCIES:
   - boost (from `../node_modules/react-native/third-party-podspecs/boost.podspec`)
   - DoubleConversion (from `../node_modules/react-native/third-party-podspecs/DoubleConversion.podspec`)
-  - EXAV (from `../node_modules/expo-av/ios`)
-  - EXBarCodeScanner (from `../node_modules/expo-barcode-scanner/ios`)
-  - EXConstants (from `../node_modules/expo-constants/ios`)
-  - EXFont (from `../node_modules/expo-font/ios`)
-  - EXImageLoader (from `../node_modules/expo-image-loader/ios`)
-  - EXLocation (from `../node_modules/expo-location/ios`)
-  - Expo (from `../node_modules/expo`)
-  - ExpoBrightness (from `../node_modules/expo-brightness/ios`)
-  - ExpoCamera (from `../node_modules/expo-camera/ios`)
-  - ExpoFileSystem (from `../node_modules/expo-file-system/ios`)
-  - ExpoImagePicker (from `../node_modules/expo-image-picker/ios`)
-  - ExpoKeepAwake (from `../node_modules/expo-keep-awake/ios`)
-  - ExpoModulesCore (from `../node_modules/expo-modules-core`)
-  - ExpoSensors (from `../node_modules/expo-sensors/ios`)
+  - "EXAV (from `../node_modules/.pnpm/expo-av@13.10.6_expo@50.0.21_@babel+core@7.26.0_@react-native+babel-preset@0.73.21_@babel+cor_cvrujijqg2tfaoxlmr55l5n63y/node_modules/expo-av/ios`)"
+  - "EXBarCodeScanner (from `../node_modules/.pnpm/expo-barcode-scanner@12.9.3_expo@50.0.21_@babel+core@7.26.0_@react-native+babel-preset@0.73.2_dxad7urjitmc7qcgsrchmluxua/node_modules/expo-barcode-scanner/ios`)"
+  - "EXConstants (from `../node_modules/.pnpm/expo-constants@15.4.6_expo@50.0.21_@babel+core@7.26.0_@react-native+babel-preset@0.73.21_@bab_7zefs7pcimwnp3uvkvsfkzbiia/node_modules/expo-constants/ios`)"
+  - "EXFont (from `../node_modules/.pnpm/expo-font@11.10.3_expo@50.0.21_@babel+core@7.26.0_@react-native+babel-preset@0.73.21_@babel+c_fvrdeb7kwfok2thnhin3tvdpny/node_modules/expo-font/ios`)"
+  - "EXImageLoader (from `../node_modules/.pnpm/expo-image-loader@4.6.0_expo@50.0.21_@babel+core@7.26.0_@react-native+babel-preset@0.73.21_@b_zhnvseqeahjvicd4gjz57a5v3y/node_modules/expo-image-loader/ios`)"
+  - "EXLocation (from `../node_modules/.pnpm/expo-location@16.5.5_expo@50.0.21_@babel+core@7.26.0_@react-native+babel-preset@0.73.21_@babe_7wapx7szh4s5ycidgiapfccqvy/node_modules/expo-location/ios`)"
+  - "Expo (from `../node_modules/.pnpm/expo@50.0.21_@babel+core@7.26.0_@react-native+babel-preset@0.73.21_@babel+core@7.26.0_@babel+_addzvgbcuahevasoaf57znldpe/node_modules/expo`)"
+  - "ExpoBrightness (from `../node_modules/.pnpm/expo-brightness@11.8.0_expo@50.0.21_@babel+core@7.26.0_@react-native+babel-preset@0.73.21_@ba_klc5tfrn3ruretntmhz2zarbpe/node_modules/expo-brightness/ios`)"
+  - "ExpoCamera (from `../node_modules/.pnpm/expo-camera@14.1.3_expo@50.0.21_@babel+core@7.26.0_@react-native+babel-preset@0.73.21_@babel+_stslmskxd5lqgghwcqqje67amm/node_modules/expo-camera/ios`)"
+  - "ExpoFileSystem (from `../node_modules/.pnpm/expo-file-system@16.0.9_expo@50.0.21_@babel+core@7.26.0_@react-native+babel-preset@0.73.21_@b_tyawzn4m6riuwvellllzbonp5a/node_modules/expo-file-system/ios`)"
+  - "ExpoImagePicker (from `../node_modules/.pnpm/expo-image-picker@14.7.1_expo@50.0.21_@babel+core@7.26.0_@react-native+babel-preset@0.73.21_@_fbvez6no6zf4rkqrwe5flhjgsa/node_modules/expo-image-picker/ios`)"
+  - "ExpoKeepAwake (from `../node_modules/.pnpm/expo-keep-awake@12.8.2_expo@50.0.21_@babel+core@7.26.0_@react-native+babel-preset@0.73.21_@ba_2hj2qmedegshsriugnazjfp6qm/node_modules/expo-keep-awake/ios`)"
+  - "ExpoModulesCore (from `../node_modules/.pnpm/expo-modules-core@1.11.14/node_modules/expo-modules-core`)"
+  - "ExpoSensors (from `../node_modules/.pnpm/expo-sensors@12.9.1_expo@50.0.21_@babel+core@7.26.0_@react-native+babel-preset@0.73.21_@babel_rndkutefzi3drrm5rriwomuc64/node_modules/expo-sensors/ios`)"
   - FBLazyVector (from `../node_modules/react-native/Libraries/FBLazyVector`)
   - FBReactNativeSpec (from `../node_modules/react-native/React/FBReactNativeSpec`)
   - Flipper (= 0.201.0)
@@ -1328,33 +1328,33 @@ EXTERNAL SOURCES:
   DoubleConversion:
     :podspec: "../node_modules/react-native/third-party-podspecs/DoubleConversion.podspec"
   EXAV:
-    :path: "../node_modules/expo-av/ios"
+    :path: "../node_modules/.pnpm/expo-av@13.10.6_expo@50.0.21_@babel+core@7.26.0_@react-native+babel-preset@0.73.21_@babel+cor_cvrujijqg2tfaoxlmr55l5n63y/node_modules/expo-av/ios"
   EXBarCodeScanner:
-    :path: "../node_modules/expo-barcode-scanner/ios"
+    :path: "../node_modules/.pnpm/expo-barcode-scanner@12.9.3_expo@50.0.21_@babel+core@7.26.0_@react-native+babel-preset@0.73.2_dxad7urjitmc7qcgsrchmluxua/node_modules/expo-barcode-scanner/ios"
   EXConstants:
-    :path: "../node_modules/expo-constants/ios"
+    :path: "../node_modules/.pnpm/expo-constants@15.4.6_expo@50.0.21_@babel+core@7.26.0_@react-native+babel-preset@0.73.21_@bab_7zefs7pcimwnp3uvkvsfkzbiia/node_modules/expo-constants/ios"
   EXFont:
-    :path: "../node_modules/expo-font/ios"
+    :path: "../node_modules/.pnpm/expo-font@11.10.3_expo@50.0.21_@babel+core@7.26.0_@react-native+babel-preset@0.73.21_@babel+c_fvrdeb7kwfok2thnhin3tvdpny/node_modules/expo-font/ios"
   EXImageLoader:
-    :path: "../node_modules/expo-image-loader/ios"
+    :path: "../node_modules/.pnpm/expo-image-loader@4.6.0_expo@50.0.21_@babel+core@7.26.0_@react-native+babel-preset@0.73.21_@b_zhnvseqeahjvicd4gjz57a5v3y/node_modules/expo-image-loader/ios"
   EXLocation:
-    :path: "../node_modules/expo-location/ios"
+    :path: "../node_modules/.pnpm/expo-location@16.5.5_expo@50.0.21_@babel+core@7.26.0_@react-native+babel-preset@0.73.21_@babe_7wapx7szh4s5ycidgiapfccqvy/node_modules/expo-location/ios"
   Expo:
-    :path: "../node_modules/expo"
+    :path: "../node_modules/.pnpm/expo@50.0.21_@babel+core@7.26.0_@react-native+babel-preset@0.73.21_@babel+core@7.26.0_@babel+_addzvgbcuahevasoaf57znldpe/node_modules/expo"
   ExpoBrightness:
-    :path: "../node_modules/expo-brightness/ios"
+    :path: "../node_modules/.pnpm/expo-brightness@11.8.0_expo@50.0.21_@babel+core@7.26.0_@react-native+babel-preset@0.73.21_@ba_klc5tfrn3ruretntmhz2zarbpe/node_modules/expo-brightness/ios"
   ExpoCamera:
-    :path: "../node_modules/expo-camera/ios"
+    :path: "../node_modules/.pnpm/expo-camera@14.1.3_expo@50.0.21_@babel+core@7.26.0_@react-native+babel-preset@0.73.21_@babel+_stslmskxd5lqgghwcqqje67amm/node_modules/expo-camera/ios"
   ExpoFileSystem:
-    :path: "../node_modules/expo-file-system/ios"
+    :path: "../node_modules/.pnpm/expo-file-system@16.0.9_expo@50.0.21_@babel+core@7.26.0_@react-native+babel-preset@0.73.21_@b_tyawzn4m6riuwvellllzbonp5a/node_modules/expo-file-system/ios"
   ExpoImagePicker:
-    :path: "../node_modules/expo-image-picker/ios"
+    :path: "../node_modules/.pnpm/expo-image-picker@14.7.1_expo@50.0.21_@babel+core@7.26.0_@react-native+babel-preset@0.73.21_@_fbvez6no6zf4rkqrwe5flhjgsa/node_modules/expo-image-picker/ios"
   ExpoKeepAwake:
-    :path: "../node_modules/expo-keep-awake/ios"
+    :path: "../node_modules/.pnpm/expo-keep-awake@12.8.2_expo@50.0.21_@babel+core@7.26.0_@react-native+babel-preset@0.73.21_@ba_2hj2qmedegshsriugnazjfp6qm/node_modules/expo-keep-awake/ios"
   ExpoModulesCore:
-    :path: "../node_modules/expo-modules-core"
+    :path: "../node_modules/.pnpm/expo-modules-core@1.11.14/node_modules/expo-modules-core"
   ExpoSensors:
-    :path: "../node_modules/expo-sensors/ios"
+    :path: "../node_modules/.pnpm/expo-sensors@12.9.1_expo@50.0.21_@babel+core@7.26.0_@react-native+babel-preset@0.73.21_@babel_rndkutefzi3drrm5rriwomuc64/node_modules/expo-sensors/ios"
   FBLazyVector:
     :path: "../node_modules/react-native/Libraries/FBLazyVector"
   FBReactNativeSpec:
@@ -1498,7 +1498,7 @@ SPEC CHECKSUMS:
   ExpoModulesCore: 421e9c6bcb63baf153a5ec22b2b4319addfe331c
   ExpoSensors: a88c7bed8178a38e5cd3c2759baf348781027f28
   FBLazyVector: c039b29a5b130f817a6b07dd7bc33830a969ab27
-  FBReactNativeSpec: 0368d296aba294bab9067f575175422a4754db27
+  FBReactNativeSpec: 4c7df6c35733fd8e2c204a7d1d75ef70e0a5a130
   Flipper: c7a0093234c4bdd456e363f2f19b2e4b27652d44
   Flipper-Boost-iOSX: fd1e2b8cbef7e662a122412d7ac5f5bea715403c
   Flipper-DoubleConversion: 2dc99b02f658daf147069aad9dbd29d8feb06d30
@@ -1556,7 +1556,7 @@ SPEC CHECKSUMS:
   React-RCTText: 3fc5f2629ba3732e2c92c4c2046be2171e8b14d3
   React-RCTVibration: 491df80515fa282bac06bb8652cbf73118b15d8e
   React-rendererdebug: 6811c7970cd72f747833775b8de47c9d0d63df20
-  React-rncore: 589b9a8a6cf7fe5a472bb54c73ba91c98d241b5d
+  React-rncore: 04fe36395200a312968b26fdf8e42e33e80f3d50
   React-runtimeexecutor: 493b548fb6f1aaf94ba57cc9208ad5b89046e2be
   React-runtimescheduler: 639000d08f94ee18017fad4c691c572bb6dfbe50
   React-utils: c3a9bede4e9aa5c0a8184958cd4c09ff461fd60f

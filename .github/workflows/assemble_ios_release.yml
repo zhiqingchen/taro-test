@@ -81,7 +81,7 @@ jobs:
           bundle update
           bundle exec fastlane build_release
       - name: Upload Ios Products
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v4
         with:
           name: app-${{ env.BUILD_TYPE }}
           path: |

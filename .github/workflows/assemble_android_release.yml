@@ -69,6 +69,7 @@ jobs:
         env:
           KEYSTORE_FILE: ${{ github.workspace }}/android/app/${{ env.KEYSTORE_FILE }}
           NODE_PATH: ${{ github.workspace }}/node_modules/.pnpm/node_modules:$NODE_PATH
+          BUNDLE_PATH: vendor/bundle
       - name: Upload Android Products
         uses: actions/upload-artifact@v4
         with:

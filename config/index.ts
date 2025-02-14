@@ -19,6 +19,8 @@ export default defineConfig<'webpack5'>(async (merge, { command, mode }) => {
     outputRoot: 'dist',
     plugins: [],
     defineConstants: {
+      __TEST__: JSON.stringify(false),
+      __TEST__TRUE: JSON.stringify(true)
     },
     copy: {
       patterns: [
